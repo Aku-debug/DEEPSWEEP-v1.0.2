@@ -1,0 +1,10 @@
+﻿  AkuCleaner.cpp
+C:\Users\Tokky\OneDrive\Desktop\akunun entel uygulamalari\AkuCleaner\AkuCleaner\AkuCleaner.cpp(632,25): warning C4477: 'wprintf' : '%-4d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'size_t'
+      C:\Users\Tokky\OneDrive\Desktop\akunun entel uygulamalari\AkuCleaner\AkuCleaner\AkuCleaner.cpp(632,25):
+      biçim dizesinde '%zd' kullanmayı düşünün
+  
+  Kod üretiliyor
+  Previous IPDB not found, fall back to full compilation.
+  All 510 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Kodun üretilmesi tamamlandı
+  AkuCleaner.vcxproj -> C:\Users\Tokky\OneDrive\Desktop\akunun entel uygulamalari\AkuCleaner\x64\Release\AkuCleaner.exe
